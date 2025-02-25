@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+requests
+openai
+elasticsearch
+psycopg2-binary
